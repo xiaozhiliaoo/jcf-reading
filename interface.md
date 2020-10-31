@@ -13,3 +13,9 @@ AbstractList，add方法抛出异常，因为支持可变和不可变
 # Set
 Set
 AbstractSet
+
+
+# Map
+Map
+AbstractMap
+HashMap,WeakHashMap
